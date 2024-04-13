@@ -1,0 +1,113 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+
+h4 {
+    text-align: end;
+    color: red;
+    font-size: 25px;
+}
+.color {
+    font-size: 25px;
+    color: black;
+}
+
+.contenedor {
+    background-color: rgba(12, 1, 1, 0.986);
+    border: solid;
+    padding-top: 30px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+}
+
+#rubias {
+     width: 200px;
+}
+
+#ventana {
+    width: 180px;
+}
+
+#lorax {
+    width: 196px;
+}
+
+#erase {
+    width: 190px;
+}
+
+#campamento {
+    width: 194px;
+}
+
+#nieve {
+    width: 194px;
+}
+
+.contenedor2 {
+    background-color: rgba(0, 0, 0, 0.986);
+    border: solid;
+    padding-top: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#llegada{
+    width: 194px;
+
+}
+#Pianista{
+    width: 195px;
+}
+
+#Damcel{
+    width: 195px;
+}
+#astronauta{
+    width: 195px;
+}
+#milagro{
+    width: 195px;
+}
+.contenedor3 {
+    background-color: rgba(0, 0, 0, 0.986);
+    border: solid;
+    padding-top: 30px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#caballeros{
+    width: 195px; 
+}
+#descansar{
+    width: 190px;
+}
+#proyecto{
+    width: 195px;
+}
+#practicante{
+    width: 195px;
+}
+#perdida{
+    width: 195px;
+}
+#horas{
+    width: 195px;
+}
